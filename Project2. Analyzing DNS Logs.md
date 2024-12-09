@@ -4,7 +4,7 @@
 DNS (Domain Name System) log analysis is a critical component of network security, providing insights into potential threats and anomalies in network traffic. In this project, I will upload a sample DNS log file to Splunk SIEM and analyze DNS logs to identify suspicious activities.
 
 ## Prepare Sample DNS Log File
-1.	Download sample DNS log file in a suitable format (e.g., text files).
+1.	Download sample [DNS log file](https://www.secrepo.com/maccdc2012/dns.log.gz) in a suitable format (e.g., text files).
 2.	Ensure the log files contain relevant DNS events, including source IP, destination IP, domain name, query type, response code, etc.
 3.	Once sample log file is saved, upload the file to Splunk. (Settings > Add Data > Upload)
 
